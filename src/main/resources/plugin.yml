@@ -1,0 +1,9 @@
+name: CommandStick
+version: '${project.version}'
+main: com.github.tsuoihito.commandstick.CommandStick
+api-version: 1.19
+authors: [ tsuoihito ]
+description: Stick as a shortcut for typing commands
+commands:
+  commandstick:
+    aliases: [ cstick ]
