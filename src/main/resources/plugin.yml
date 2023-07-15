@@ -1,9 +1,9 @@
 name: CommandStick
 version: '${project.version}'
-main: com.github.tsuoihito.commandstick.CommandStick
-api-version: 1.19
-authors: [ tsuoihito ]
-description: Stick as a shortcut for typing commands
+main: net.nutchi.commandstick.CommandStick
+api-version: '1.16'
+author: Nutchi
+description: A stick as a shortcut for typing a command
 commands:
   commandstick:
     aliases: [ cstick ]
