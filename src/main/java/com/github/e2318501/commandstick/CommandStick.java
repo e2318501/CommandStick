@@ -1,4 +1,4 @@
-package net.nutchi.commandstick;
+package com.github.e2318501.commandstick;
 
 import org.bukkit.Material;
 import org.bukkit.command.Command;

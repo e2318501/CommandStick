@@ -1,8 +1,8 @@
 name: CommandStick
 version: '${project.version}'
-main: net.nutchi.commandstick.CommandStick
+main: com.github.e2318501.commandstick.CommandStick
 api-version: '1.16'
-author: Nutchi
+author: e2318501
 description: A stick as a shortcut for typing a command
 commands:
   commandstick:
