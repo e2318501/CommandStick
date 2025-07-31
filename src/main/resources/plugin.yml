@@ -3,7 +3,7 @@ version: '${project.version}'
 main: com.github.e2318501.commandstick.CommandStick
 api-version: '1.16'
 author: e2318501
-description: A stick as a shortcut for typing a command
+description: Swing a stick to execute a Minecraft command
 commands:
   commandstick:
     aliases: [ cstick ]
